@@ -2,7 +2,7 @@ site_name: SolidRocks Documentation
 site_description: Documentation for the SolidRocks render optimizers
 site_author: Jerome Prevost
 # A remplacer par l'adresse reelle une fois le depot cree (ou par le domaine personnel plus tard).
-site_url: https://jejous.github.io/solidrocks.doc/
+site_url: https://jejous.github.io/solidrocks-docs/
 copyright: Copyright &copy; 2026 Jerome Prevost
 
 theme:
