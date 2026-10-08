@@ -1,0 +1,6 @@
+# Versions figees volontairement :
+# - Material for MkDocs est en maintenance depuis debut 2026 (correctifs jusqu'a ~debut 2027).
+# - MkDocs 2.0 annonce casse Material (plus de plugins, plus de themes) : on reste en 1.6.x.
+# Migration future possible vers Zensical (meme equipe, relit mkdocs.yml), sans urgence.
+mkdocs==1.6.1
+mkdocs-material==9.7.6
