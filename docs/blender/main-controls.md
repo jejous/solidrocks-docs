@@ -58,7 +58,7 @@ Saves the Level, Quick Preview settings, Compare zoom, noise target and the **na
 
 ## Make Permanent
 
-Shown when SolidRocks is ON. It detaches the scene from SolidRocks: the SolidRocks values become the scene's own values, and the backup is cleared. Use it before sending the file to someone, or to a render farm, without the add-on.
+Shown when SolidRocks is ON. It detaches the scene from SolidRocks: the SolidRocks values become the scene's own values, and the backup is cleared. It is the only way to save a file with the SolidRocks values: a normal save always writes your original settings. Use it before sending the file to someone, or to a render farm, without the add-on.
 
 !!! danger
     Cannot be undone through SolidRocks (Ctrl+Z still works right after).

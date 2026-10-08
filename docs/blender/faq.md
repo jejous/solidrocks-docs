@@ -27,7 +27,9 @@ Normal. The Preset tab shows preset values. Active Settings shows what Cycles re
 
 ## I sent my .blend to someone without SolidRocks
 
-If SolidRocks was ON when you saved, the scene simply keeps the SolidRocks values: it renders fine. Use **Make Permanent** first if you want a clean file with no SolidRocks backup inside.
+A file saved while SolidRocks is ON contains **your original settings**, not the SolidRocks values. When you reopen it with SolidRocks installed, the SolidRocks values come back automatically.
+
+To send a file that renders **with the SolidRocks values** on a machine or render farm without the add-on, use **Make Permanent** first, then save.
 
 ## Old scenes saved with an earlier SolidRocks version
 

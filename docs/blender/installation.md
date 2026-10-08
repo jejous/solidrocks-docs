@@ -25,7 +25,6 @@ Install the new `.zip` the same way. Your presets folder is not touched.
 
 ## Uninstall
 
-Switch SolidRocks **OFF** in every scene where it is on before uninstalling, so your original settings are restored. Then remove the add-on from **Edit > Preferences > Add-ons**.
+Remove the add-on from **Edit > Preferences > Add-ons**.
 
-!!! warning
-    A scene saved while SolidRocks is ON keeps the SolidRocks values. Without the add-on, nothing can restore your original values automatically.
+Your files are safe: a scene saved while SolidRocks is ON is written with **your original settings**. Without the add-on, it simply renders with them.
