@@ -1,6 +1,8 @@
 # SolidRocks for Cycles
 
-**Faster Cycles renders, without guessing the settings.**
+**Cycles made easy.**
+
+Pick a level, render. SolidRocks handles the rest.
 
 SolidRocks replaces a dozen Cycles render settings with one **quality slider, from Draft to Ultra**. Each step sets samples, noise threshold, light bounces and anti-firefly clamps together, from presets built by a lighting teacher with 15 years of experience.
 

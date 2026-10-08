@@ -28,7 +28,7 @@ Only used when **Denoise** is on.
 - **Samples Reduction Factor**: samples are divided by this value.
 - **Noise Thr. Multiplier**: the noise threshold is multiplied by this value.
 
-Keep the multiplier close to the **square root** of the reduction factor (1.5 → 1.22, 2 → 1.41), so both limits move together. The included presets use 1.5 / 1.22: on our test scenes, 20 to 40 % faster with no visible difference at 100 % zoom. 4 / 2 was clearly faster but lost detail.
+Keep the multiplier close to the **square root** of the reduction factor (1.5 → 1.22, 2 → 1.41), so both limits move together. The included presets use 1.5 / 1.22: on our test scenes, renders were 20 to 40 % faster than with no reduction (1 / 1), with no visible difference at 100 % zoom. 4 / 2 was clearly faster but lost detail.
 
 ## Anti-fireflies
 
