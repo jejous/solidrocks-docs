@@ -19,9 +19,15 @@
 
 The Studio, Interior and Exterior presets are installed with the add-on. By default they are stored in Blender's user configuration folder. You can choose another folder in the add-on preferences (**Presets Folder**), for example a folder shared by a team.
 
-## Update
+## Update (or Lite to Pro)
 
-Install the new `.zip` the same way. Your presets folder is not touched.
+1. Install the new `.zip` the same way (**Install from Disk**), over the current version. No need to uninstall first.
+2. **Untick, then tick again** the SolidRocks checkbox in the add-on list (or restart Blender). Until then, Blender keeps running the previous version.
+
+Your presets folder and your add-on preferences are kept.
+
+!!! warning
+    Never keep two SolidRocks installations at the same time (for example an old single `.py` file and a `.zip` install). Uninstall the old one first.
 
 ## Uninstall
 
